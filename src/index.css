@@ -1,0 +1,24 @@
+:root{
+    --main-bg:#131722;
+    --main-cl:#fff;
+    --light-bg:#24baef;
+    --border-col:#a8a8a83d;
+}
+body{
+font-family: 'Ubuntu', sans-serif !important;
+background-color: var(--main-bg);
+color: var(--main-cl);
+}
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+}
+.brdr{
+    height: 1px;
+    background-color: var(--border-col);
+}
+a,a:hover{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}

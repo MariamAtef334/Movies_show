@@ -1,3 +1,24 @@
+### Trending Showing
+##### Here's features included in this project
+
+- Authonitication
+- Display trending Movies,People, and Tvs from api
+- Display every trend details
+- Product page
+- Awesome modern minimalist UI
+
+### Technologies Used:
+
+---
+
+1. React.js
+2. Context
+3. Axios
+4. JWT
+5. JOI
+6. CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,6 +1,8 @@
 # view pp
 https://trendingshow.netlify.app/
 ### Trending Showing
+Including authentication, validation, and pagination using React.js, Context, and axios.
+Show all trending people, movies, and tv from the moviedb api.    
 ##### Here's features included in this project
 
 - Authonitication

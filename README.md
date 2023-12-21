@@ -23,7 +23,12 @@ Show all trending people, movies, and tv from the moviedb api.
 3. Axios
 4. JWT
 5. JOI
-6. CSS
+6. html
+7. css
+8. js
+9. bootstrap
+10. localStorage
+    
 
 
 # Getting Started with Create React App

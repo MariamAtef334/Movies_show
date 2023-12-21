@@ -6,9 +6,12 @@ Show all trending people, movies, and tv from the moviedb api.
 ##### Here's features included in this project
 
 - Authonitication
+- Register 
+- Login 
+- Logout 
 - Display trending Movies,People, and Tvs from api
 - Display every trend details
-- Product page
+- Pagination
 - Awesome modern minimalist UI
 
 ### Technologies Used:
